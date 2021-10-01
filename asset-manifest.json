@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e16032d7.chunk.css",
+    "main.js": "/static/js/main.c81948a7.chunk.js",
+    "main.js.map": "/static/js/main.c81948a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.d9cc13f4.chunk.js": "/static/js/2.d9cc13f4.chunk.js",
+    "static/js/2.d9cc13f4.chunk.js.map": "/static/js/2.d9cc13f4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4c90c9b39b7817760036f6789b5af490.js": "/precache-manifest.4c90c9b39b7817760036f6789b5af490.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e16032d7.chunk.css.map": "/static/css/main.e16032d7.chunk.css.map",
+    "static/js/2.d9cc13f4.chunk.js.LICENSE.txt": "/static/js/2.d9cc13f4.chunk.js.LICENSE.txt",
+    "static/media/inquisitive.jpeg": "/static/media/inquisitive.bd089195.jpeg",
+    "static/media/naranjito.png": "/static/media/naranjito.7a824b4c.png",
+    "static/media/resume.pdf": "/static/media/resume.fd5d7f50.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.d9cc13f4.chunk.js",
+    "static/css/main.e16032d7.chunk.css",
+    "static/js/main.c81948a7.chunk.js"
+  ]
+}
